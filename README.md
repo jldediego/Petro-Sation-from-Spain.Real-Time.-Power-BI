@@ -33,4 +33,6 @@ Conocimientos adquiridos.
 
 -Uso de botones y marcas
 
+![image](https://user-images.githubusercontent.com/121707237/226964759-e088dd68-8a84-4373-9434-732c2b32bc94.png)
 
+![image](https://user-images.githubusercontent.com/121707237/226965158-e479d669-ebae-445f-8052-051619c1c6fa.png)
