@@ -3,7 +3,9 @@ Estudio de precio de los cuatro combustibles mas utilizados, en cada una de las 
 
 Conocimientos adquiridos.
 
--Captación de datos dde fuente de Internet
+-Captación de datos de fuente de Internet
+
+-Captación de datos de fuente csv.
 
 -Limpieza de datos
 
